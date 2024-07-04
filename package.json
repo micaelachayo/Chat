@@ -9,6 +9,9 @@
     "dev": "npx nodemon ./src/app.js",
     "start": "node ./src/app.js"
   },
+  "engines": {
+    "node": "14.x"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
